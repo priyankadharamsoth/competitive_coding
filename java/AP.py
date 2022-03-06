@@ -4,3 +4,4 @@ for i in range(0,len(a)-1):
         b = int(a[i]+a[j])//2
         print(b)
         
+        
