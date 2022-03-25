@@ -1,5 +1,5 @@
 //import java.lang.reflect.Array;
-
+package leetcode;
 public class Swaps {
     public static void main(String[] args) {
         int[] arr = new int[]{0,1,0,1,0,1,0};

@@ -1,4 +1,4 @@
-
+package leetcode;
 
 public class Stack {
     int top = 0;
